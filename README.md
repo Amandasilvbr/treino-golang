@@ -8,20 +8,19 @@ Este é um arquivo README que fornece uma lista de exercícios básica que devem
 
 2- Modifique o programa anterior para imprimir um triângulo de asteriscos invertido;
 
-3- Crie uma função em Go que receba um número como parâmetro e imprima um quadrado de asteriscos com o tamanho correspondente ao número;
+3- Crie uma função personalizada que recebe um número inteiro positivo como entrada. A função deve retornar o resultado de uma operação qualquer realizada com esse número. No entanto, se o número de entrada for negativo, a função deve retornar um erro indicando que um número negativo foi fornecido.
 
-4- Escreva um programa em Go que solicite ao usuário um número e, em seguida, imprima um triângulo de asteriscos com a base correspondente ao número fornecido.
+4- Escreva um programa em Go que utilize uma estrutura de dados map para armazenar nomes de pessoas como chaves e suas idades como valores. Imprima o mapa completo.
 
-5- Crie uma função em Go que receba um número como parâmetro e imprima um losango de asteriscos com o tamanho correspondente ao número.
+5- Escreva uma função que recebe um número inteiro positivo como entrada e calcula o fatorial desse número. O fatorial de um número n é o produto de todos os números inteiros de 1 a n.
 
-6- Modifique o programa anterior para que o losango seja preenchido com espaços em branco no lugar dos asteriscos internos.
+6- Escreva uma função que recebe uma string como entrada e conta o número de vogais presentes nessa string. Considere vogais apenas as letras "a", "e", "i", "o" e "u".
 
-7- Escreva um programa em Go que desenhe um padrão de escada de asteriscos, onde cada linha tem um asterisco a mais que a linha anterior.
+7- Escreva uma função que recebe uma string como entrada e retorna uma nova string que é a versão invertida da original.
 
-8- Crie uma função em Go que desenhe um padrão de escada invertida de asteriscos, onde cada linha tem um asterisco a menos que a linha anterior.
+8- Escreva uma função que recebe uma lista de números inteiros como entrada e retorna o valor máximo e mínimo encontrados nessa lista.
 
-9- Modifique o programa anterior para que a escada seja preenchida com espaços em branco no lugar dos asteriscos internos.
+9- Escreva uma função que recebe a largura e altura de um retângulo como entrada e retorna a sua área.
 
-Escreva um programa em Go que utilize uma estrutura de dados map para armazenar nomes de pessoas como chaves e suas idades como valores. Imprima o mapa completo.
+10- Escreva uma função que recebe um número como entrada e verifica se ele é positivo, negativo ou zero. A função deve retornar uma mensagem indicando o resultado.
 
-Desafio: escreva um programa em Go que solicite ao usuário um número e, em seguida, desenhe um padrão de diamante de asteriscos com base no número fornecido.
